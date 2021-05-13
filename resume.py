@@ -140,17 +140,17 @@ def write_pdf(html: str, prefix: str = "resume", chrome: str = "") -> None:
             [
                 chrome,
                 *options,
-                f"--print-to-pdf=page/{prefix}.pdf",
+                f"--print-to-pdf=docs/{prefix}.pdf",
                 "data:text/html;base64," + html64.decode("utf-8"),
             ],
             check=True,
         )
-        logging.info(f"Wrote page/{prefix}.pdf")
+        logging.info(f"Wrote docs/{prefix}.pdf")
     except subprocess.CalledProcessError as exc:
         if exc.returncode == -6:
             logging.warning(
                 "Chrome died with <Signals.SIGABRT: 6> "
-                f"but you may find page/{prefix}.pdf was created successfully."
+                f"but you may find docs/{prefix}.pdf was created successfully."
             )
         else:
             raise exc
@@ -202,7 +202,7 @@ if __name__ == "__main__":
     html = make_html(md, prefix=prefix)
 
     if not args.no_html:
-        with open("page/" + prefix + ".html", "w") as htmlfp:
+        with open("docs/" + prefix + ".html", "w") as htmlfp:
             htmlfp.write(html)
             logging.info(f"Wrote {htmlfp.name}")
 
