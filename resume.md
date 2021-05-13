@@ -1,60 +1,96 @@
 <!-- The (first) h1 will be used as the <title> of the HTML page -->
-# Richard Hendricks
+# Gabrielle Wald
 
 <!-- The unordered list immediately after the h1 will be formatted on a single
 line. It is intended to be used for contact details -->
-- <richard.hendriks@mail.com>
-- (912) 555-4321
-- [richardhendricks.example.com](http://richardhendricks.example.com)
-- San Francisco, CA
+- <gabibmello@gmail.com>
+- (617) 413-0253
+- [LinkedIn](https://www.linkedin.com/in/gabriellewald/)
+- [GitHub](https://github.com/gabriellewald)
 
 <!-- The paragraph after the h1 and ul and before the first h2 is optional. It
 is intended to be used for a short summary. -->
-CEO and Software Engineer with knowledge of applied information theory,
-including optimizing lossless compression schema of both the length-limited and
-adaptive variants.
+I am a Data Scientist working to surface insights from data sets. I seek to inform the decision making process with science-based methods. I have experience making predictive models and use data visualization techniques to communicate analytical results.
 
 ## Experience
 
 <!-- You have to wrap the "left" and "right" half of these headings in spans by
 hand -->
-### <span>CEO/President, Pied Piper</span> <span>Dec 2013 -- Dec 2014</span>
+### <span>Data Scientist Fellow, Springboard</span> <span>Aug 2020 -- Present</span>
 
-Pied Piper is a multi-platform technology based on a proprietary universal
-compression algorithm that has consistently fielded high Weisman Scores™ that
-are not merely competitive, but approach the theoretical limit of lossless
-compression.
+- Curriculum includes: machine learning, deep learning, natural language processing, data wrangling, exploratory data analysis, hypothesis testing, pre-processing and training data development, modeling, feature engineering
+- Tools: Python, SQL, Jupyter, Pandas, Matplotlib, NumPy, Scikit-Learn, SciPy, Seaborn
 
- - Build an algorithm for artist to detect if their music was violating
-   copyright infringement laws
- - Successfully won Techcrunch Disrupt
- - Optimized an algorithm that holds the current world record for Weisman Scores
+### <span>Data Scientist Fellow, DS4A Correlation One</span> <span>Oct 2020 -- Feb 2021</span>
 
-### <span>Teacher, CoderDojo</span> <span>July 2013 -- Dec 2013</span>
+This is a Merit-based Fellowship with 5% acceptance rate led by Harvard Prof. Natesh Pillai.
 
-Global movement of free coding clubs for young people.
+- Co-created capstone project to understand financial impact in K-12 public education in CA
+- Run regression models to determine variables of impact and identify confounding factors
+- Performed t-test and chi-square analysis for hypothesis testing
+- Formulated hypothesis and studied the relationship between various indicators
+- Conducted exploratory data analysis and created meaningful plots to identify patterns
+- Manipulated several datasets to obtain useful information
+- Found, transformed, and prepared data for visualization
 
- - Awarded 'Teacher of the Month'
+### <span>Research Data Analyst, UC Davis</span> <span>May 2019 -- Jul 2020</span>
+
+- Ran descriptives and constructed visualization for research in collaboration with the World Bank
+- Organized and cleaned data files with over 63k data points in R/Excel for research
+- Collaborated with researchers and participated in planning meetings
+
+### <span>Research Assistant, Center for Mind and Brain</span> <span>Aug 2017 -- Oct 2018</span>
+
+- Ran eye-tracking software SMI, collected and coded infant behavior data
+- Screened participants and followed IRB guidelines for research projects
+- Trained new RAs on lab procedures and collaborated with the research team
+
+### <span>Research Assistant, Center for Mind and Brain</span> <span>Aug 2018 -- Jul 2019</span>
+
+- Carried out data collection for behavioral studies
+- Administered eye-tracking to study subjects 
+- Collaborated with P.I., PhD students, and fellow researchers
+
+### <span>Vice President of Scholarship, PTK Honor Society International</span> <span>Jan 2015 -- Jan 2016</span>
+
+- Partnered with organizations like Planned Parenthood for collaboration on campus projects
+- Co-created projects to empower women on campus
+- Organized and co-presented induction ceremony to welcome new inductees
+- Led weekly meetings with society members to address action items
 
 ## Projects
 
-### <span>Miss Direction</span> <span>Aug 2016</span>
+### <span>Passing the Standards Projection</span> <span>May 2021</span>
 
-A mapping engine that misguides you:
+A projection of the percentage of students passing test standards in California K-12 public schools:
 
-   - Won award at AIHacks 2016
-   - Built by all women team of newbie programmers
-   - Using modern technologies such as GoogleMaps, Chrome Extension and Javascript
+   - Created unique dataset
+   - Modeled the training data to several regression algorithms (Linear Regression, Logistic Regression, Decision Tree, Random Forest, Lasso and PCA)
+   - Python tools: pandas, NumPy, Scikit-Learn, statsmodel, Seaborn, MatplotLib
 
 ## Education
 
-### <span>University of Oklahoma, BA Information Technology</span> <span>2011 -- 2014</span>
+### <span>Springboard School of Data, Data Science</span> <span>2020 -- 2021</span>
 
-  - GPA 4.0
-  - DB1101 - Basic SQL
-  - CS2011 - Java Introduction
+ - Selective silicon-valley-based data science program with over 500 hours of coursework.
+
+### <span>University of California Davis, BS Cognitive Science</span> <span>2017 -- 2020</span>
+
+  - GPA 3.65
+  - Computer Science and Neuroscience emphasis
+
+### <span>University of Hawaii Kapiolani Community College, AA Liberal Arts</span> <span>2013 -- 2015</span>
+
+  - GPA 4.0 Valedictorian
+  - Applied Linguistics Concentration
 
 ## Skills
 
- - Web development: HTML, CSS, JavaScript
- - Compression: Mpeg, MP4, GIF
+- Languages: Python (pandas, scikit-learn, NumPy, statsmodel)
+- Predictive Modeling: Linear/Logistic Regression, Classification, Clustering, Decision Tree, Random Forest
+- Probability and Statistics: Hypothesis Testing(t-test, chi-squared, regression), A/B Testing 
+- Databases: SQL 
+- Data Visualization: Jupyter, matplotlib, seaborn
+- Version Control: Git, Github
+- Data Science Methods: Wrangling, Cleaning, Analysis, Visualization, Storytelling
+
