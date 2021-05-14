@@ -61,13 +61,14 @@ This is a Merit-based Fellowship with 5% acceptance rate led by Harvard Prof. Na
 
 ### <span>Springboard School of Data, Data Science</span> <span>2020 -- 2021</span>
 
- - Selective silicon-valley-based program with over 500 hours of coursework.
- - Curriculum includes: machine learning, deep learning, natural language processing, data wrangling, exploratory data analysis, hypothesis testing, pre-processing and training data development, modeling, feature engineering
+ - 550+ hours of hands-on course material, with 1:1 industry expert mentor
+oversight, and completion of 2 in-depth capstone projects. Mastered skills in Python,
+SQL, data wrangling, data visualization, hypothesis testing, and machine learning.
 
 ### <span>University of California Davis, BS Cognitive Science</span> <span>2017 -- 2020</span>
 
-  - 3.65 GPA
   - Computer Science and Neuroscience emphasis
+  - 3.65 GPA
 
 ## Projects
 
@@ -76,7 +77,7 @@ This is a Merit-based Fellowship with 5% acceptance rate led by Harvard Prof. Na
 A projection of the percentage of students passing test standards in California K-12 public schools:
 
    - Created unique dataset with test scores, financial investment in education, and several demographics regarding students and their families.
-   - Modeled the training data to several regression algorithms (Linear Regression, Logistic Regression, Decision Tree, Random Forest, Lasso and PCA)
+   - Modeled the training data to several regression algorithms (Linear Regression, Logistic Regression, Decision Tree, Random Forest, Lasso and PCA).
 
 ## Skills
 
