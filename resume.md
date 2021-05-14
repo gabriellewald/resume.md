@@ -75,7 +75,7 @@ Merit-based fellowship with 5% acceptance rate led by Harvard Prof. Natesh Pilla
 A projection of the percentage of K-12 students passing standard tests in California public schools:
 
    - Created unique dataset with test scores, financial investment in education, and several demographics regarding students and their families.
-   - Modeled the training data to several regression algorithms (Linear Regression, Logistic Regression, Decision Tree, Random Forest, Lasso and PCA).
+   - Modeled training data with several regression algorithms: Linear Regression, Logistic Regression, Decision Tree, Random Forest, Lasso and PCA.
 
 ## Skills
 
