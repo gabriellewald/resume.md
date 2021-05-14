@@ -10,7 +10,7 @@ line. It is intended to be used for contact details -->
 
 <!-- The paragraph after the h1 and ul and before the first h2 is optional. It
 is intended to be used for a short summary. -->
-I am a Data Scientist working to surface insights from data sets. I seek to inform the decision making process with science-based methods. I have experience making predictive models and use data visualization techniques to communicate analytical results.
+I am a Data Scientist working to surface insights from data sets. I seek to inform the decision making process with science-based methods.
 
 ## Experience
 
@@ -18,8 +18,11 @@ I am a Data Scientist working to surface insights from data sets. I seek to info
 hand -->
 ### <span>Data Scientist Fellow, Springboard</span> <span>Aug 2020 -- Present</span>
 
-- Curriculum includes: machine learning, deep learning, natural language processing, data wrangling, exploratory data analysis, hypothesis testing, pre-processing and training data development, modeling, feature engineering
-- Tools: Python, SQL, Jupyter, Pandas, Matplotlib, NumPy, Scikit-Learn, SciPy, Seaborn
+- Created project to predict percentage of students passing the standard tests in K-12 public education in CA
+- Formulated and tested hypothesis to understand demographic factors in performance
+- Found and transformed several files to construct unique data sets
+- Applied frequentist technique to answer business questions
+- Used machine learning algorithms in classification and regression models
 
 ### <span>Data Scientist Fellow, DS4A Correlation One</span> <span>Oct 2020 -- Feb 2021</span>
 
@@ -28,10 +31,7 @@ This is a Merit-based Fellowship with 5% acceptance rate led by Harvard Prof. Na
 - Co-created capstone project to understand financial impact in K-12 public education in CA
 - Run regression models to determine variables of impact and identify confounding factors
 - Performed t-test and chi-square analysis for hypothesis testing
-- Formulated hypothesis and studied the relationship between various indicators
 - Conducted exploratory data analysis and created meaningful plots to identify patterns
-- Manipulated several datasets to obtain useful information
-- Found, transformed, and prepared data for visualization
 
 ### <span>Research Data Analyst, UC Davis</span> <span>May 2019 -- Jul 2020</span>
 
@@ -66,7 +66,6 @@ A projection of the percentage of students passing test standards in California 
 
    - Created unique dataset with test scores, financial investment in education, and several demographics regarding students and their families.
    - Modeled the training data to several regression algorithms (Linear Regression, Logistic Regression, Decision Tree, Random Forest, Lasso and PCA)
-   - Python tools: pandas, NumPy, Scikit-Learn, statsmodel, Seaborn, MatplotLib
 
 ## Education
 
