@@ -12,6 +12,15 @@ line. It is intended to be used for contact details -->
 is intended to be used for a short summary. -->
 I am a Data Scientist working to surface insights from data sets. I seek to inform the decision making process with science-based methods.
 
+## Projects
+
+### <span>Passing the Standards Projection</span> <span>May 2021</span>
+
+A projection of the percentage of students passing test standards in California K-12 public schools:
+
+   - Created unique dataset with test scores, financial investment in education, and several demographics regarding students and their families.
+   - Modeled the training data to several regression algorithms (Linear Regression, Logistic Regression, Decision Tree, Random Forest, Lasso and PCA)
+
 ## Experience
 
 <!-- You have to wrap the "left" and "right" half of these headings in spans by
@@ -58,15 +67,6 @@ This is a Merit-based Fellowship with 5% acceptance rate led by Harvard Prof. Na
 - Organized and co-presented induction ceremony to welcome new inductees
 - Led weekly meetings with society members to address action items
 
-## Projects
-
-### <span>Passing the Standards Projection</span> <span>May 2021</span>
-
-A projection of the percentage of students passing test standards in California K-12 public schools:
-
-   - Created unique dataset with test scores, financial investment in education, and several demographics regarding students and their families.
-   - Modeled the training data to several regression algorithms (Linear Regression, Logistic Regression, Decision Tree, Random Forest, Lasso and PCA)
-
 ## Education
 
 ### <span>Springboard School of Data, Data Science</span> <span>2020 -- 2021</span>
@@ -79,11 +79,6 @@ A projection of the percentage of students passing test standards in California 
   - 3.65 GPA
   - Computer Science and Neuroscience emphasis
 
-### <span>University of Hawaii Kapiolani Community College, AA Liberal Arts</span> <span>2013 -- 2015</span>
-
-  - 4.0 GPA Valedictorian
-  - Applied Linguistics Concentration
-
 ## Skills
 
 - Languages: Python (pandas, scikit-learn, NumPy, statsmodel)
@@ -93,4 +88,3 @@ A projection of the percentage of students passing test standards in California 
 - Data Visualization: Jupyter, matplotlib, seaborn
 - Version Control: Git, Github
 - Data Science Methods: Wrangling, Cleaning, Analysis, Visualization, Storytelling
-
