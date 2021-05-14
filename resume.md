@@ -10,7 +10,7 @@ line. It is intended to be used for contact details -->
 
 <!-- The paragraph after the h1 and ul and before the first h2 is optional. It
 is intended to be used for a short summary. -->
-I am a Data Scientist working to surface insights from data sets. I seek to inform the decision making process with science-based methods.
+I am a Data Scientist working to surface insights from data sets. I seek to inform the decision making process with science-based methods. I have experience with predictive modeling and making visualization accessible.
 
 ## Experience
 
