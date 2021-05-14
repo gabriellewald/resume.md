@@ -1,9 +1,7 @@
 # resume.md
 
-![Resume](resume.png)
-
 Write your resume in
-[Markdown](https://raw.githubusercontent.com/mikepqr/resume.md/main/resume.md),
+[Markdown](https://raw.githubusercontent.com/gabriellewald/resume.md/main/resume.md),
 style it with [CSS](resume.css), output to [HTML](resume.html) and
 [PDF](resume.pdf).
 
@@ -18,7 +16,7 @@ style it with [CSS](resume.css), output to [HTML](resume.html) and
 
  1. Download [resume.py](resume.py), [resume.md](resume.md) and
     [resume.css](resume.css) (or make a copy of this repository by [using the
-    template](https://github.com/mikepqr/resume.md/generate), forking, or
+    template](https://github.com/gabriellewald/resume.md/generate), forking, or
     cloning).
 
  2. Edit [resume.md](resume.md) (the placeholder text is taken with thanks from
@@ -48,7 +46,7 @@ rule](https://developer.mozilla.org/en-US/docs/Web/CSS/%40page/size).
 [python-markdown](https://python-markdown.github.io/) is by default a very basic
 markdown compiler, but it has a number of optional extensions that you may want
 to enable (by adding to [the list of extensions
-here](https://github.com/mikepqr/resume.md/blob/5d99e02bf65ff6a2a0ccd18c1a0255c26ec59377/resume.py#L41)).
+here](https://github.com/gabriellewald/resume.md/blob/main/resume.py#L41)).
 <code><a
 href="https://python-markdown.github.io/extensions/attr_list/">attr_list</a></code>
 in particular may by useful if you are editing the CSS.
