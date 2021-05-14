@@ -2,8 +2,8 @@
 
 Write your resume in
 [Markdown](https://raw.githubusercontent.com/gabriellewald/resume.md/main/resume.md),
-style it with [CSS](resume.css), output to [HTML](docs/index.html) and
-[PDF](docs/resume.pdf).
+style it with [CSS](resume.css), output to [HTML](https://gabriellewald.github.io/resume.md) and
+[PDF](https://gabriellewald.github.io/resume.md/resume.pdf).
 
 ## Prerequisites
 
