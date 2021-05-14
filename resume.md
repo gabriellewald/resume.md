@@ -64,7 +64,7 @@ This is a Merit-based Fellowship with 5% acceptance rate led by Harvard Prof. Na
 
 A projection of the percentage of students passing test standards in California K-12 public schools:
 
-   - Created unique dataset
+   - Created unique dataset with test scores, financial investment in education, and several demographics regarding students and their families.
    - Modeled the training data to several regression algorithms (Linear Regression, Logistic Regression, Decision Tree, Random Forest, Lasso and PCA)
    - Python tools: pandas, NumPy, Scikit-Learn, statsmodel, Seaborn, MatplotLib
 
@@ -72,16 +72,17 @@ A projection of the percentage of students passing test standards in California 
 
 ### <span>Springboard School of Data, Data Science</span> <span>2020 -- 2021</span>
 
- - Selective silicon-valley-based data science program with over 500 hours of coursework.
+ - Selective silicon-valley-based program with over 500 hours of coursework.
+ - Curriculum includes: machine learning, deep learning, natural language processing, data wrangling, exploratory data analysis, hypothesis testing, pre-processing and training data development, modeling, feature engineering
 
 ### <span>University of California Davis, BS Cognitive Science</span> <span>2017 -- 2020</span>
 
-  - GPA 3.65
+  - 3.65 GPA
   - Computer Science and Neuroscience emphasis
 
 ### <span>University of Hawaii Kapiolani Community College, AA Liberal Arts</span> <span>2013 -- 2015</span>
 
-  - GPA 4.0 Valedictorian
+  - 4.0 GPA Valedictorian
   - Applied Linguistics Concentration
 
 ## Skills
