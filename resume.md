@@ -67,8 +67,8 @@ SQL, data wrangling, data visualization, hypothesis testing, and machine learnin
 
 ### <span>University of California Davis, BS Cognitive Science</span> <span>2017 -- 2020</span>
 
-  - Computer Science and Neuroscience emphasis
-  - 3.65 GPA
+  - Computer Science and Neuroscience emphasis, 3.65 GPA
+  - Relevant coursework: Applied Statistics, Biostatistics, Statistical Analysis in R, Linear Algebra, Research Methods, Data Structures and Algorithms in Python, Object Oriented Programming in Python.
 
 ## Projects
 
