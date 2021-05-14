@@ -5,8 +5,8 @@
 line. It is intended to be used for contact details -->
 - <gabibmello@gmail.com>
 - (617) 413-0253
-- [LinkedIn](https://www.linkedin.com/in/gabriellewald/)
-- [GitHub](https://github.com/gabriellewald)
+- [LinkedIn/gabriellewald/](https://www.linkedin.com/in/gabriellewald/)
+- [GitHub/gabriellewald/](https://github.com/gabriellewald)
 
 <!-- The paragraph after the h1 and ul and before the first h2 is optional. It
 is intended to be used for a short summary. -->
