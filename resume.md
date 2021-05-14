@@ -18,7 +18,7 @@ I am a Data Scientist working to surface insights from datasets. I seek to infor
 hand -->
 ### <span>Data Scientist Fellow, Springboard School of Data</span> <span>Aug 2020 -- Present</span>
 
-- Created predictive model to understand students' performance in CA K-12 public schools.
+- Created predictive model to understand students' performance in CA K-12 public schools
 - Formulated and tested hypotheses to understand demographic factors in performance
 - Found and transformed several files to construct unique datasets
 - Used machine learning algorithms in classification and regression models
