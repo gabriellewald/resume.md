@@ -5,8 +5,8 @@
 line. It is intended to be used for contact details -->
 - <gabibmello@gmail.com>
 - (617) 413-0253
-- [LinkedIn/gabriellewald/](https://www.linkedin.com/in/gabriellewald/)
-- [GitHub/gabriellewald/](https://github.com/gabriellewald)
+- [LinkedIn](https://www.linkedin.com/in/gabriellewald/)
+- [GitHub](https://github.com/gabriellewald)
 
 <!-- The paragraph after the h1 and ul and before the first h2 is optional. It
 is intended to be used for a short summary. -->
@@ -39,13 +39,13 @@ This is a Merit-based Fellowship with 5% acceptance rate led by Harvard Prof. Na
 - Organized and cleaned data files with over 63k data points in R/Excel for research
 - Collaborated with researchers and participated in planning meetings
 
-### <span>Research Assistant, Center for Mind and Brain</span> <span>Aug 2017 -- Oct 2018</span>
+### <span>Research Assistant, Oakes Lab</span> <span>Aug 2017 -- Oct 2018</span>
 
 - Ran eye-tracking software SMI, collected and coded infant behavior data
 - Screened participants and followed IRB guidelines for research projects
 - Trained new RAs on lab procedures and collaborated with the research team
 
-### <span>Research Assistant, Center for Mind and Brain</span> <span>Aug 2018 -- Jul 2019</span>
+### <span>Research Assistant, Rivera Lab</span> <span>Aug 2018 -- Jul 2019</span>
 
 - Carried out data collection for behavioral studies
 - Administered eye-tracking to study subjects 
