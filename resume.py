@@ -202,7 +202,7 @@ if __name__ == "__main__":
     html = make_html(md, prefix=prefix)
 
     if not args.no_html:
-        with open("docs/" + prefix + ".html", "w") as htmlfp:
+        with open("docs/" + "index.html", "w") as htmlfp:
             htmlfp.write(html)
             logging.info(f"Wrote {htmlfp.name}")
 
