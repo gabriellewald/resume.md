@@ -12,15 +12,6 @@ line. It is intended to be used for contact details -->
 is intended to be used for a short summary. -->
 I am a Data Scientist working to surface insights from data sets. I seek to inform the decision making process with science-based methods.
 
-## Projects
-
-### <span>Passing the Standards Projection</span> <span>May 2021</span>
-
-A projection of the percentage of students passing test standards in California K-12 public schools:
-
-   - Created unique dataset with test scores, financial investment in education, and several demographics regarding students and their families.
-   - Modeled the training data to several regression algorithms (Linear Regression, Logistic Regression, Decision Tree, Random Forest, Lasso and PCA)
-
 ## Experience
 
 <!-- You have to wrap the "left" and "right" half of these headings in spans by
@@ -62,10 +53,9 @@ This is a Merit-based Fellowship with 5% acceptance rate led by Harvard Prof. Na
 
 ### <span>Vice President of Scholarship, PTK Honor Society International</span> <span>Jan 2015 -- Jan 2016</span>
 
-- Partnered with organizations like Planned Parenthood for collaboration on campus projects
-- Co-created projects to empower women on campus
-- Organized and co-presented induction ceremony to welcome new inductees
+- Partnered with organizations for collaboration on campus projects
 - Led weekly meetings with society members to address action items
+- Organized and presented induction ceremony to welcome new inductees
 
 ## Education
 
@@ -78,6 +68,15 @@ This is a Merit-based Fellowship with 5% acceptance rate led by Harvard Prof. Na
 
   - 3.65 GPA
   - Computer Science and Neuroscience emphasis
+
+## Projects
+
+### <span>Passing the Standards Projection</span> <span>May 2021</span>
+
+A projection of the percentage of students passing test standards in California K-12 public schools:
+
+   - Created unique dataset with test scores, financial investment in education, and several demographics regarding students and their families.
+   - Modeled the training data to several regression algorithms (Linear Regression, Logistic Regression, Decision Tree, Random Forest, Lasso and PCA)
 
 ## Skills
 
