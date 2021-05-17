@@ -15,7 +15,7 @@ preamble = """\
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<meta property="og:image" content="https://github.com/gabriellewald/resume.md/tree/main/docs/preview.png" />
+<meta property="og:image" content="https://github.com/gabriellewald/resume.md/raw/main/docs/preview.png" />
 <title>{title}</title>
 <style>
 {css}
