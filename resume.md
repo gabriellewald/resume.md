@@ -25,7 +25,7 @@ hand -->
 
 ### <span>Data Scientist Fellow, DS4A Correlation One</span> <span>Oct 2020 -- Feb 2021</span>
 
-Merit-based fellowship with 5% acceptance rate led by Harvard Prof. Natesh Pillai.
+*Merit-based fellowship with 5% acceptance rate led by Harvard Prof. Natesh Pillai*
 
 - Co-created capstone project to understand financial impact in K-12 public education in CA
 - Run regression models to determine variables of impact and identify confounding factors
@@ -63,27 +63,44 @@ Merit-based fellowship with 5% acceptance rate led by Harvard Prof. Natesh Pilla
  - 550+ hours of hands-on coursework, with 1:1 industry expert mentorship, and completion of 2 in-depth capstone projects 
  - Developed skills in Python, SQL, data wrangling, data visualization, hypothesis testing, and machine learning
 
-### <span>University of California Davis, BS Cognitive Science</span> <span>2017 -- 2020</span>
+### <span>University of California Davis, BS Cognitive Science, 3.65 GPA</span> <span>2017 -- 2020</span>
 
-  - Computer Science and Neuroscience emphasis, 3.65 GPA
+  - Computer Science and Neuroscience emphasis
   - Relevant coursework: Applied Statistics, Biostatistics, Statistical Analysis in R, Linear Algebra, Research Methods, Data Structures and Algorithms in Python, Object Oriented Programming in Python
 
 ## Projects
 
 ### <span>Passing the Standards Projection</span> <span>May 2021</span>
 
-Created predictive model to project the percentage of K-12 students passing standard tests in California public schools. This project was an in-depth investigation of factors possibly effecting school performance.
+*Created predictive model to project the percentage of K-12 students passing standard tests in California public schools. This project was an in-depth investigation of factors possibly effecting school performance.*
 
    - Modeled training data with several regression algorithms: Linear Regression, Logistic Regression, Decision Tree, Random Forest, Lasso and PCA
    - Created unique dataset with test scores, financial investment in education, and several demographics regarding students and their families
 
 ## Skills
 
-- Languages and Packages: Python, pandas, scikit-learn, NumPy, statsmodel, Jupyter, matplotlib, seaborn
-- Predictive Modeling: Linear/ Logistic Regression, Classification, Clustering, Decision Tree, Random Forest
-- Probability and Statistics: Hypothesis Testing (t-test, chi-squared, regression), A/B Testing
-- Data Science Methods: Wrangling, Cleaning, Analysis, Visualization, Storytelling
-- Version Control: Git, Github
-- Databases: SQL 
+### <span>Languages and Packages</span>
+
+  - Python, pandas, scikit-learn, NumPy, statsmodel, Jupyter, matplotlib, seaborn
+ 
+### <span>Predictive Modeling</span>
+
+ - Linear/ Logistic Regression, Classification, Clustering, Decision Tree, Random Forest
+
+### <span>Probability and Statistics</span>
+
+ - Hypothesis Testing (t-test, chi-squared, regression), A/B Testing
+
+### <span>Data Science Methods</span>
+
+ - Wrangling, Cleaning, Analysis, Visualization, Storytelling
+
+### <span>Version Control</span>
+
+ - Git, Github
+
+### <span>Databases</span>
+
+ - SQL 
 
 
