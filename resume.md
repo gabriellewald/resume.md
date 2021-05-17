@@ -79,7 +79,6 @@ Created predictive model to project the percentage of K-12 students passing stan
 
 ## Skills
 
-
 - Languages and Packages: Python, pandas, scikit-learn, NumPy, statsmodel, Jupyter, matplotlib, seaborn
 - Predictive Modeling: Linear/ Logistic Regression, Classification, Clustering, Decision Tree, Random Forest
 - Probability and Statistics: Hypothesis Testing (t-test, chi-squared, regression), A/B Testing
