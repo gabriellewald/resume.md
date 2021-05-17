@@ -10,7 +10,7 @@ line. It is intended to be used for contact details -->
 
 <!-- The paragraph after the h1 and ul and before the first h2 is optional. It
 is intended to be used for a short summary. -->
-I am a Data Scientist working to surface insights from datasets. I seek to inform the decision making process with science-based methods. I have experience making accessible visualizations and predictive modeling.
+I am a Data Scientist interested in surfacing insights from data. I have experience creating accessible visualizations and predictive models for a wide range of applications. I'm passionate about the scientific method and use of technology to generate positive impact, improve services, and uncover possible solutions.
 
 ## Experience
 
@@ -32,7 +32,7 @@ Merit-based fellowship with 5% acceptance rate led by Harvard Prof. Natesh Pilla
 - Performed t-test and chi-square analysis for hypothesis testing
 - Conducted exploratory data analysis and created meaningful plots to identify patterns
 
-### <span>Research Data Analyst, SELF-lab UC Davis</span> <span>May 2019 -- Jul 2020</span>
+### <span>Research Data Analyst, SELF-lab, UC Davis</span> <span>May 2019 -- Jul 2020</span>
 
 - Ran descriptives and constructed visualization for research in collaboration with the World Bank
 - Organized and cleaned data files with over 63k data points in R/Excel for research
@@ -60,22 +60,22 @@ Merit-based fellowship with 5% acceptance rate led by Harvard Prof. Natesh Pilla
 
 ### <span>Springboard School of Data, Data Science</span> <span>2020 -- 2021</span>
 
- - 550+ hours of hands-on course material, with 1:1 industry expert mentorship, and completion of 2 in-depth capstone projects. 
- - Developed skills in Python, SQL, data wrangling, data visualization, hypothesis testing, and machine learning.
+ - 550+ hours of hands-on coursework, with 1:1 industry expert mentorship, and completion of 2 in-depth capstone projects 
+ - Developed skills in Python, SQL, data wrangling, data visualization, hypothesis testing, and machine learning
 
 ### <span>University of California Davis, BS Cognitive Science</span> <span>2017 -- 2020</span>
 
   - Computer Science and Neuroscience emphasis, 3.65 GPA
-  - Relevant coursework: Applied Statistics, Biostatistics, Statistical Analysis in R, Linear Algebra, Research Methods, Data Structures and Algorithms in Python, Object Oriented Programming in Python.
+  - Relevant coursework: Applied Statistics, Biostatistics, Statistical Analysis in R, Linear Algebra, Research Methods, Data Structures and Algorithms in Python, Object Oriented Programming in Python
 
 ## Projects
 
 ### <span>Passing the Standards Projection</span> <span>May 2021</span>
 
-A projection of the percentage of K-12 students passing standard tests in California public schools:
+Created predictive model to project the percentage of K-12 students passing standard tests in California public schools. This project was an in-depth investigation of factors possibly effecting school performance.
 
-   - Created unique dataset with test scores, financial investment in education, and several demographics regarding students and their families.
-   - Modeled training data with several regression algorithms: Linear Regression, Logistic Regression, Decision Tree, Random Forest, Lasso and PCA.
+   - Modeled training data with several regression algorithms: Linear Regression, Logistic Regression, Decision Tree, Random Forest, Lasso and PCA
+   - Created unique dataset with test scores, financial investment in education, and several demographics regarding students and their families
 
 ## Skills
 
