@@ -79,28 +79,11 @@ hand -->
 
 ## Skills
 
-### <span>Languages and Packages</span>
-
-  - Python, pandas, scikit-learn, NumPy, statsmodel, Jupyter, matplotlib, seaborn
- 
-### <span>Predictive Modeling</span>
-
- - Linear/ Logistic Regression, Classification, Clustering, Decision Tree, Random Forest
-
-### <span>Probability and Statistics</span>
-
- - Hypothesis Testing (t-test, chi-squared, regression), A/B Testing
-
-### <span>Data Science Methods</span>
-
- - Wrangling, Cleaning, Analysis, Visualization, Storytelling
-
-### <span>Version Control</span>
-
- - Git, Github
-
-### <span>Databases</span>
-
- - SQL 
+ - Languages and Packages: Python, pandas, scikit-learn, NumPy, statsmodel, Jupyter, matplotlib, seaborn
+ - Predictive Modeling: Linear/ Logistic Regression, Classification, Clustering, Decision Tree, Random Forest
+ - Probability and Statistics: Hypothesis Testing (t-test, chi-squared, regression), A/B Testing
+ - Data Science Methods: Wrangling, Cleaning, Analysis, Visualization, Storytelling
+ - Version Control: Git, Github
+ - Databases: SQL 
 
 
