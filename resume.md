@@ -62,7 +62,7 @@ hand -->
 
 *550+ hours of hands-on coursework, with 1:1 industry expert mentorship*
 
-- completion of 2 in-depth capstone projects 
+- Completion of 2 in-depth capstone projects 
 - Developed skills in Python, SQL, data wrangling, data visualization, hypothesis testing, and machine learning
 
 ### <span>University of California Davis, BS Cognitive Science, 3.65 GPA</span> <span>2017 -- 2020</span>
