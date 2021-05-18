@@ -84,7 +84,7 @@ hand -->
 
 - Programming Language: python (numpy, pandas, matplotlib, sklearn, statsmodel, seaborn, jupyter notebook)
 - Descriptive and Inferential Statistics: p-value, test for significance (z-test, t-test, chi-squared, ANOVA) 
-- Experimental Design: A/B testing, sample size, hypothesis testing, confidence level
+- Experimental Design: A/B testing, hypothesis testing, confidence level
 - Predictive Modeling: linear / logistic regression, classification, clustering, decision trees, random forest
 - Data Science Methods: mining, wrangling, cleaning, analysis, visualization, storytelling
 - Version Control: Git, Github
