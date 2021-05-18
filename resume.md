@@ -10,7 +10,7 @@ line. It is intended to be used for contact details -->
 
 <!-- The paragraph after the h1 and ul and before the first h2 is optional. It
 is intended to be used for a short summary. -->
-I am a Data Scientist interested in surfacing insights from data. I have experience creating accessible visualizations and predictive models for a wide range of applications. I'm passionate about the scientific method and use of technology to generate positive impact, improve services, and uncover possible solutions.
+I am a Data Scientist interested in surfacing insights from data. I have experience creating accessible visualizations and predictive models for a wide range of applications. I'm passionate about the scientific method and the use of technology to generate positive impact, improve services, and uncover possible solutions.
 
 ## Experience
 
@@ -38,13 +38,13 @@ hand -->
 - Organized and cleaned data files with over 63k data points in R/Excel for research
 - Collaborated with researchers and participated in planning meetings
 
-### <span>Research Assistant, Oakes Lab, Center for Mind and Brain</span> <span>Aug 2017 -- Oct 2018</span>
+### <span>Research Assistant, Oakes Lab, Center for Mind and Brain</span> <span>Aug 2018 -- Jul 2019</span>
 
 - Ran eye-tracking software SMI, collected and coded infant behavior data
 - Screened participants and followed IRB guidelines for research projects
 - Trained new RAs on lab procedures and collaborated with the research team
 
-### <span>Research Assistant, Rivera Lab, Center for Mind and Brain</span> <span>Aug 2018 -- Jul 2019</span>
+### <span>Research Assistant, Rivera Lab, Center for Mind and Brain</span> <span>Aug 2017 -- Oct 2018</span>
 
 - Carried out data collection for behavioral studies
 - Administered eye-tracking to study subjects 
