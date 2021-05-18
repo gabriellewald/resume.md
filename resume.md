@@ -16,14 +16,14 @@ I am a Data Scientist interested in surfacing insights from data. I have experie
 
 <!-- You have to wrap the "left" and "right" half of these headings in spans by
 hand -->
-### <span>Data Scientist Fellow, Springboard School of Data</span> <span>Aug 2020 -- Present</span>
+### <span>Data Science Fellow, Springboard School of Data</span> <span>Aug 2020 -- Present</span>
 
 - Created predictive model to understand students' performance in CA K-12 public schools
 - Formulated and tested hypotheses to understand demographic factors in performance
 - Found and transformed several files to construct unique datasets
 - Used machine learning algorithms in classification and regression models
 
-### <span>Data Scientist Fellow, DS4A Correlation One</span> <span>Oct 2020 -- Feb 2021</span>
+### <span>Data Science Fellow, DS4A Empowerment Program, Correlation One</span> <span>Oct 2020 -- Feb 2021</span>
 
 *Merit-based fellowship with 5% acceptance rate led by Harvard Prof. Natesh Pillai*
 
