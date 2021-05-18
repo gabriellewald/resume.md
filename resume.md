@@ -75,7 +75,7 @@ hand -->
 
 ### <span>Passing the Standards Projection</span> <span>May 2021</span>
 
-*Created predictive model to project the percentage of K-12 students passing standard tests in California public schools. This project was an in-depth investigation of factors possibly effecting school performance.*
+*Created predictive model to project the percentage of K-12 students passing standard tests in California public schools. This project was an in-depth investigation of factors possibly affecting school performance.*
 
    - Modeled training data with several regression algorithms: Linear Regression, Logistic Regression, Decision Tree, Random Forest, Lasso and PCA
    - Created unique dataset with test scores, financial investment in education, and several demographics regarding students and their families
