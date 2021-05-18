@@ -5,8 +5,8 @@
 line. It is intended to be used for contact details -->
 - <gabibmello@gmail.com>
 - (617) 413-0253
-- [linkedin.com/in/gabriellewald](https://www.linkedin.com/in/gabriellewald/)
-- [github.com/gabriellewald](https://github.com/gabriellewald)
+- [linkedin/gabriellewald](https://www.linkedin.com/in/gabriellewald/)
+- [github/gabriellewald](https://github.com/gabriellewald)
 
 <!-- The paragraph after the h1 and ul and before the first h2 is optional. It
 is intended to be used for a short summary. -->
@@ -75,7 +75,7 @@ hand -->
 
 ### <span>Passing the Standards Projection</span> <span>May 2021</span>
 
-*Predictive model to project the percentage of students passing standard tests in CA K-12 public schools. This project was an in-depth investigation of factors possibly affecting school performance.*
+Predictive model to project the percentage of students passing standard tests in CA K-12 public schools. This project was an in-depth investigation of factors possibly affecting school performance.
 
 - Modeled training data with several regression algorithms: linear regression, logistic regression, decision tree, random forest, lasso, and PCA
 - Created unique dataset with test scores, financial investment in education, and several demographics regarding students and their families
