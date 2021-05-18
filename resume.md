@@ -27,15 +27,15 @@ hand -->
 
 *Merit-based fellowship with 5% acceptance rate led by Harvard Prof. Natesh Pillai*
 
-- Co-created capstone project to understand financial impact in K-12 public education in CA
-- Run regression models to determine variables of impact and identify confounding factors
+- Co-created capstone project to understand financial impact in CA K-12 public schools
+- Ran regression models to determine variables of impact and identify confounding factors
 - Performed t-test and chi-square analysis for hypothesis testing
 - Conducted exploratory data analysis and created meaningful plots to identify patterns
 
 ### <span>Research Data Analyst, SELF-lab, UC Davis</span> <span>May 2019 -- Jul 2020</span>
 
 - Ran descriptives and constructed visualization for research in collaboration with the World Bank
-- Organized and cleaned data files with over 63k data points in R/Excel for research
+- Organized and cleaned data with over 63,000 data points in R / Excel to prepare data for analysis
 - Collaborated with researchers and participated in planning meetings
 
 ### <span>Research Assistant, Oakes Lab, Center for Mind and Brain</span> <span>Aug 2018 -- Jul 2019</span>
@@ -60,13 +60,16 @@ hand -->
 
 ### <span>Springboard School of Data, Data Science</span> <span>2020 -- 2021</span>
 
- - 550+ hours of hands-on coursework, with 1:1 industry expert mentorship, and completion of 2 in-depth capstone projects 
+*550+ hours of hands-on coursework, with 1:1 industry expert mentorship*
+
+ - completion of 2 in-depth capstone projects 
  - Developed skills in Python, SQL, data wrangling, data visualization, hypothesis testing, and machine learning
 
 ### <span>University of California Davis, BS Cognitive Science, 3.65 GPA</span> <span>2017 -- 2020</span>
 
-  - Computer Science and Neuroscience emphasis
-  - Relevant coursework: Applied Statistics, Biostatistics, Statistical Analysis in R, Linear Algebra, Research Methods, Data Structures and Algorithms in Python, Object Oriented Programming in Python
+*Computer Science and Neuroscience emphasis*
+
+ - Relevant coursework: Applied Statistics, Biostatistics, Statistical Analysis in R, Linear Algebra, Research Methods, Data Structures and Algorithms in Python, Object Oriented Programming in Python
 
 ## Projects
 
@@ -82,7 +85,7 @@ hand -->
 - Programming Language: python (numpy, pandas, matplotlib, sklearn, statsmodel, seaborn, jupyter notebook)
 - Descriptive and Inferential Statistics: p-value, test for significance (z-test, t-test, chi-squared, ANOVA) 
 - Experimental Design: A/B testing, sample size, hypothesis testing, confidence level
-- Predictive Modeling: linear/ logistic regression, classification, clustering, decision trees, random forest
+- Predictive Modeling: linear / logistic regression, classification, clustering, decision trees, random forest
 - Data Science Methods: mining, wrangling, cleaning, analysis, visualization, storytelling
 - Version Control: Git, Github
 - Databases: SQL 
