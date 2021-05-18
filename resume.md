@@ -5,8 +5,8 @@
 line. It is intended to be used for contact details -->
 - <gabibmello@gmail.com>
 - (617) 413-0253
-- [LinkedIn](https://www.linkedin.com/in/gabriellewald/)
-- [GitHub](https://github.com/gabriellewald)
+- [linkedin.com/in/gabriellewald](https://www.linkedin.com/in/gabriellewald/)
+- [github.com/gabriellewald](https://github.com/gabriellewald)
 
 <!-- The paragraph after the h1 and ul and before the first h2 is optional. It
 is intended to be used for a short summary. -->
@@ -62,32 +62,32 @@ hand -->
 
 *550+ hours of hands-on coursework, with 1:1 industry expert mentorship*
 
- - completion of 2 in-depth capstone projects 
- - Developed skills in Python, SQL, data wrangling, data visualization, hypothesis testing, and machine learning
+- completion of 2 in-depth capstone projects 
+- Developed skills in Python, SQL, data wrangling, data visualization, hypothesis testing, and machine learning
 
 ### <span>University of California Davis, BS Cognitive Science, 3.65 GPA</span> <span>2017 -- 2020</span>
 
 *Computer Science and Neuroscience emphasis*
 
- - Relevant coursework: Applied Statistics, Biostatistics, Statistical Analysis in R, Linear Algebra, Research Methods, Data Structures and Algorithms in Python, Object Oriented Programming in Python
+- Relevant coursework: Applied Statistics, Biostatistics, Statistical Analysis in R, Linear Algebra, Research Methods, Data Structures and Algorithms in Python, Object Oriented Programming in Python
 
 ## Projects
 
 ### <span>Passing the Standards Projection</span> <span>May 2021</span>
 
-*Created predictive model to project the percentage of students passing standard tests in CA K-12 public schools. This project was an in-depth investigation of factors possibly affecting school performance.*
+*Predictive model to project the percentage of students passing standard tests in CA K-12 public schools. This project was an in-depth investigation of factors possibly affecting school performance.*
 
-   - Modeled training data with several regression algorithms: Linear Regression, Logistic Regression, Decision Tree, Random Forest, Lasso, and PCA
-   - Created unique dataset with test scores, financial investment in education, and several demographics regarding students and their families
+- Modeled training data with several regression algorithms: linear regression, logistic regression, decision tree, random forest, lasso, and PCA
+- Created unique dataset with test scores, financial investment in education, and several demographics regarding students and their families
 
 ## Skills
 
-- Programming Language: python (numpy, pandas, matplotlib, sklearn, statsmodel, seaborn, jupyter notebook)
-- Descriptive and Inferential Statistics: p-value, test for significance (z-test, t-test, chi-squared, ANOVA) 
+### <span></span>
+
+- Programming: Python, numpy, pandas, matplotlib, sklearn, statsmodel, seaborn, jupyter notebook
+- Descriptive and Inferential Statistics: p-value, test for significance (z-test, t-test, chi-squared, ANOVA)
 - Experimental Design: A/B testing, hypothesis testing, confidence level
-- Predictive Modeling: linear / logistic regression, classification, clustering, decision trees, random forest
+- Predictive Modeling: linear regression, logistic regression, classification, clustering, decision trees, random forest
 - Data Science Methods: mining, wrangling, cleaning, analysis, visualization, storytelling
-- Version Control: Git, Github
-- Databases: SQL 
-
-
+- Version Control: git, github
+- Databases: SQL
