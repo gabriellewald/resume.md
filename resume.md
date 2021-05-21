@@ -76,7 +76,9 @@ hand -->
 ## Projects
 
 ### <span>Passing the Standards Projection</span> <span>May 2021</span>
+
 [Exploratory Data Analysis](https://github.com/gabriellewald/education-project/blob/main/Capstone1_exploratory_data_analysis.ipynb)
+
 - This project was an in-depth investigation of factors possibly affecting school performance
 - Designed predictive model to project the percentage of students passing standard tests in CA K-12 public schools
 - Modeled training data with several regression algorithms: linear regression, logistic regression, decision tree, random forest, lasso, and PCA
