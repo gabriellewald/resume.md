@@ -4,13 +4,15 @@
 <!-- The unordered list immediately after the h1 will be formatted on a single
 line. It is intended to be used for contact details -->
 - (617) 413-0253
-- <gabibmello@gmail.com>
-- [linkedin/gabriellewald](https://www.linkedin.com/in/gabriellewald/)
-- [github/gabriellewald](https://github.com/gabriellewald)
+- Email: <gabibmello@gmail.com>
+- Linkedin: [gabriellewald](https://www.linkedin.com/in/gabriellewald/)
+- GitHub: [gabriellewald](https://github.com/gabriellewald)
 
 <!-- The paragraph after the h1 and ul and before the first h2 is optional. It
 is intended to be used for a short summary. -->
 ## Summary
+
+### <span></span>
 
 I am a Data Scientist interested in surfacing insights from data. I have experience creating accessible visualizations and predictive models for a wide range of applications. I'm passionate about the scientific method and the use of technology to generate positive impact, improve services, and uncover possible solutions.
 
@@ -74,9 +76,9 @@ hand -->
 ## Projects
 
 ### <span>Passing the Standards Projection</span> <span>May 2021</span>
-[GitHub](https://github.com/gabriellewald/education-project)
-Predictive model to project the percentage of students passing standard tests in CA K-12 public schools. This project was an in-depth investigation of factors possibly affecting school performance.
-
+[Exploratory Data Analysis](https://github.com/gabriellewald/education-project/blob/main/Capstone1_exploratory_data_analysis.ipynb)
+- This project was an in-depth investigation of factors possibly affecting school performance
+- Designed predictive model to project the percentage of students passing standard tests in CA K-12 public schools
 - Modeled training data with several regression algorithms: linear regression, logistic regression, decision tree, random forest, lasso, and PCA
 - Created unique dataset with test scores, financial investment in education, and several demographics regarding students and their families
 
