@@ -5,7 +5,7 @@
 line. It is intended to be used for contact details -->
 - (617) 413-0253
 - Email: <gabibmello@gmail.com>
-- Linkedin: [gabriellewald](https://www.linkedin.com/in/gabriellewald/)
+- LinkedIn: [gabriellewald](https://www.linkedin.com/in/gabriellewald/)
 - GitHub: [gabriellewald](https://github.com/gabriellewald)
 
 <!-- The paragraph after the h1 and ul and before the first h2 is optional. It
@@ -15,6 +15,29 @@ is intended to be used for a short summary. -->
 ### <span></span>
 
 I am a Data Scientist interested in surfacing insights from data. I have experience creating accessible visualizations and predictive models for a wide range of applications. I'm passionate about the scientific method and the use of technology to generate positive impact, improve services, and uncover possible solutions.
+
+## Skills
+
+### <span></span>
+
+- Programming: Python, numpy, pandas, matplotlib, sklearn, statsmodel, seaborn, jupyter notebook
+- Descriptive and Inferential Statistics: p-value, test for significance (z-test, t-test, chi-squared, ANOVA)
+- Experimental Design: A/B testing, hypothesis testing, confidence level
+- Predictive Modeling: linear regression, logistic regression, classification, clustering, decision trees, random forest
+- Data Science Methods: mining, wrangling, cleaning, analysis, visualization, storytelling
+- Version Control: git, github
+- Databases: SQL
+
+## Project
+
+### <span>Passing the Standards Projection</span> <span>May 2021</span>
+
+[Exploratory Data Analysis](https://github.com/gabriellewald/education-project/blob/main/Capstone1_exploratory_data_analysis.ipynb)
+
+- This project was an in-depth investigation of factors possibly affecting school performance
+- Designed predictive model to project the percentage of students passing standard tests in CA K-12 public schools
+- Modeled training data with several regression algorithms: linear regression, logistic regression, decision tree, random forest, lasso, and PCA
+- Created unique dataset with test scores, financial investment in education, and several demographics regarding students and their families
 
 ## Experience
 
@@ -72,26 +95,3 @@ hand -->
 ### <span>University of Hawaii | Kapiolani Community College</span> <span>2013 -- 2015</span>
 - Associate of Arts in Liberal Arts, Applied Linguistics Concentration 4.0 GPA Valedictorian
 - Leadership: Vice President of Scholarship at Phi Theta Kappa - Alpha Kappa Psi Chapter
-
-## Projects
-
-### <span>Passing the Standards Projection</span> <span>May 2021</span>
-
-[Exploratory Data Analysis](https://github.com/gabriellewald/education-project/blob/main/Capstone1_exploratory_data_analysis.ipynb)
-
-- This project was an in-depth investigation of factors possibly affecting school performance
-- Designed predictive model to project the percentage of students passing standard tests in CA K-12 public schools
-- Modeled training data with several regression algorithms: linear regression, logistic regression, decision tree, random forest, lasso, and PCA
-- Created unique dataset with test scores, financial investment in education, and several demographics regarding students and their families
-
-## Skills
-
-### <span></span>
-
-- Programming: Python, numpy, pandas, matplotlib, sklearn, statsmodel, seaborn, jupyter notebook
-- Descriptive and Inferential Statistics: p-value, test for significance (z-test, t-test, chi-squared, ANOVA)
-- Experimental Design: A/B testing, hypothesis testing, confidence level
-- Predictive Modeling: linear regression, logistic regression, classification, clustering, decision trees, random forest
-- Data Science Methods: mining, wrangling, cleaning, analysis, visualization, storytelling
-- Version Control: git, github
-- Databases: SQL
