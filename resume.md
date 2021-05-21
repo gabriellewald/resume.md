@@ -14,7 +14,7 @@ is intended to be used for a short summary. -->
 
 ### <span></span>
 
-I am a Data Scientist interested in surfacing insights from data. I have experience creating accessible visualizations and predictive models for a wide range of applications. I'm passionate about the scientific method and the use of technology to generate positive impact, improve services, and uncover possible solutions.
+Data Scientist interested in surfacing insights from data. Experience creating accessible visualizations and predictive models for a wide range of applications. Passionate about the scientific method and the use of technology to generate positive impact, improve services, and uncover possible solutions.
 
 ## Skills
 
