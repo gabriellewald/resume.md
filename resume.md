@@ -89,9 +89,14 @@ hand -->
 
 ### <span>University of California Davis</span> <span>2017 -- 2020</span>
 
-- Bachelor of Science in Cognitive Science, Computer Science and Neuroscience emphasis, 3.65 GPA
+- Bachelor of Science in Cognitive Science
+- Computer Science and Neuroscience emphasis
+- 3.65 GPA
 - Relevant coursework: Applied Statistics, Biostatistics, Statistical Analysis in R, Linear Algebra, Research Methods, Data Structures and Algorithms in Python, Object Oriented Programming in Python
 
 ### <span>University of Hawaii | Kapiolani Community College</span> <span>2013 -- 2015</span>
-- Associate of Arts in Liberal Arts, Applied Linguistics Concentration 4.0 GPA Valedictorian
+
+- Associate of Arts in Liberal Arts
+- Applied Linguistics Concentration
+- 4.0 GPA - Valedictorian
 - Leadership: Vice President of Scholarship at Phi Theta Kappa - Alpha Kappa Psi Chapter
