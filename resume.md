@@ -14,7 +14,7 @@ is intended to be used for a short summary. -->
 
 ### <span></span>
 
-Data Scientist / Analyst interested in surfacing insights from data. Experience creating accessible visualizations and predictive models for a wide range of applications. Passionate about the scientific method and the use of technology to generate positive impact, improve services, and uncover possible solutions.
+Data Scientist / Analyst interested in surfacing insights from data. Experience creating accessible visualization and predictive models for a wide range of applications. Passionate about the scientific method and the use of technology to generate positive impact, improve services, and discover solutions.
 
 ## Skills
 
