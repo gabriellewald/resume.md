@@ -21,9 +21,9 @@ Data Scientist / Analyst interested in surfacing insights from data. Experience 
 ### <span></span>
 
 - Programming: Python, numpy, pandas, matplotlib, sklearn, statsmodel, seaborn, jupyter notebook
-- Descriptive and Inferential Statistics: p-value, test for significance (z-test, t-test, chi-squared, ANOVA)
+- Statistics: p-value, test for significance (z-test, t-test, chi-squared, ANOVA)
 - Experimental Design: A/B testing, hypothesis testing, confidence level
-- Predictive Modeling: linear regression, logistic regression, classification, clustering, decision trees, random forest
+- Predictive Modeling: regression, classification, decision trees, random forest, gradient boosting
 - Data Science Methods: mining, wrangling, cleaning, analysis, visualization, storytelling
 - Version Control: git, github
 - Databases: SQL
@@ -32,7 +32,7 @@ Data Scientist / Analyst interested in surfacing insights from data. Experience 
 
 ### <span>Meeting the Standards Projection</span> <span>May 2021</span>
 
-[Education Project](https://github.com/gabriellewald/education-project) and
+[Education Project](https://github.com/gabriellewald/education-project) |
 [Machine Learning Models](https://github.com/gabriellewald/education-project/blob/main/Capstone1_pre_processing_training.ipynb)
 
 *This project was an in-depth investigation of factors possibly affecting school performance*
