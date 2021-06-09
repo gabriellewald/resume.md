@@ -28,19 +28,6 @@ Data Scientist / Analyst interested in surfacing insights from data. Experience 
 - Version Control: git, github
 - Databases: SQL
 
-## Project
-
-### <span>Meeting the Standards Projection</span> <span>May 2021</span>
-
-[Education Project](https://github.com/gabriellewald/education-project) |
-[Machine Learning Models](https://github.com/gabriellewald/education-project/blob/main/Capstone1_pre_processing_training.ipynb)
-
-*This project was an in-depth investigation of factors possibly affecting school performance*
-
-- Designed predictive model to project the percentage of students passing standard tests in CA K-12 public schools
-- Modeled training data with linear regression, lasso, decision tree, random forest, and gradient boosting
-- Combined multiple datasets and tested hypotheses to address open ended questions
-
 ## Experience
 
 <!-- You have to wrap the "left" and "right" half of these headings in spans by
@@ -87,6 +74,19 @@ hand -->
 - Partnered with organizations for collaboration on campus projects
 - Led weekly meetings with society members to address action items
 - Organized and presented induction ceremony to welcome new inductees
+
+## Project
+
+### <span>Meeting the Standards Projection</span> <span>May 2021</span>
+
+[Education Project](https://github.com/gabriellewald/education-project) |
+[Machine Learning Models](https://github.com/gabriellewald/education-project/blob/main/Capstone1_pre_processing_training.ipynb)
+
+*This project was an in-depth investigation of factors possibly affecting school performance*
+
+- Designed predictive model to project the percentage of students passing standard tests in CA K-12 public schools
+- Modeled training data with linear regression, lasso, decision tree, random forest, and gradient boosting
+- Combined multiple datasets and tested hypotheses to address open ended questions
 
 ## Education
 
