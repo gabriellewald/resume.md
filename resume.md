@@ -63,7 +63,7 @@ hand -->
 - Performed t-test and chi-square analysis for hypothesis testing
 - Conducted exploratory data analysis and created meaningful plots to identify patterns
 
-### <span>Research Fellow, University of California Davis</span> <span>May 2017 -- Jul 2020</span>
+### <span>Research Fellow, University of California Davis</span> <span>Aug 2017 -- Jul 2020</span>
 ***Data Analyst | SELF-lab***
 
 - Ran descriptives and constructed visualization for research in collaboration with the World Bank
