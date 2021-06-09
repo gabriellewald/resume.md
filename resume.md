@@ -4,7 +4,7 @@
 <!-- The unordered list immediately after the h1 will be formatted on a single
 line. It is intended to be used for contact details -->
 - (617) 413-0253
-- Email: <gabibmello@gmail.com>
+- <gabibmello@gmail.com>
 - LinkedIn: [gabriellewald](https://www.linkedin.com/in/gabriellewald/)
 - GitHub: [gabriellewald](https://github.com/gabriellewald)
 
