@@ -27,6 +27,7 @@ Data Scientist / Analyst interested in surfacing insights from data. Experience 
 - Data Science Methods: mining, wrangling, cleaning, analysis, visualization, storytelling
 - Version Control: git, github
 - Databases: SQL
+- Languages: Fluent in English and Brazilian Portuguese
 
 ## Experience
 
@@ -77,7 +78,7 @@ hand -->
 
 ### <span>Language Tutor, University of Hawaii</span> <span>Aug 2014 -- Dec 2015</span>
 
-- Conducted weekly tutoring sessions to assist with language assignments for students of English and Brazilian Portuguese
+- Conducted tutoring sessions to assist students of English and Brazilian Portuguese with language assignments
 
 ## Project
 
