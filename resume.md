@@ -45,7 +45,7 @@ Data Scientist / Analyst interested in surfacing insights from data. Experience 
 
 <!-- You have to wrap the "left" and "right" half of these headings in spans by
 hand -->
-### <span>Data Science Fellow, Springboard School of Data</span> <span>Aug 2020 -- Present</span>
+### <span>Data Scientist Fellow, Springboard School of Data</span> <span>Aug 2020 -- Present</span>
 
 *550+ hours of hands-on coursework, with 1:1 industry expert mentorship*
 
@@ -54,7 +54,7 @@ hand -->
 - Found and transformed several files to construct unique datasets
 - Used machine learning algorithms in classification and regression models
 
-### <span>Data Science Fellow, DS4A Empowerment Program | Correlation One</span> <span>Oct 2020 -- Feb 2021</span>
+### <span>Data Scientist Fellow, DS4A Empowerment Program | Correlation One</span> <span>Oct 2020 -- Feb 2021</span>
 
 *Merit-based fellowship with 5% acceptance rate led by Harvard Prof. Natesh Pillai*
 
@@ -64,19 +64,19 @@ hand -->
 - Conducted exploratory data analysis and created meaningful plots to identify patterns
 
 ### <span>UC Davis</span> <span>May 2017 -- Jul 2020</span>
-### <span>Data Analyst, Research Fellow </span> <span>SELF-lab</span>
+### <span>Data Analyst, Research Fellow | SELF-lab </span>
 
 - Ran descriptives and constructed visualization for research in collaboration with the World Bank
 - Organized and cleaned data with over 63,000 data points in R / Excel to prepare data for analysis
 - Collaborated with researchers and participated in planning meetings
 
-### <span>Research Assistant, Oakes Lab </span> <span>Center for Mind and Brain</span>
+### <span>Research Assistant, Oakes Lab | Center for Mind and Brain</span>
 
 - Ran eye-tracking software SMI, collected and coded infant behavior data
 - Screened participants and followed IRB guidelines for research projects
 - Trained new RAs on lab procedures and collaborated with the research team
 
-### <span>Research Assistant, Rivera Lab </span> <span>Center for Mind and Brain</span>
+### <span>Research Assistant, Rivera Lab | Center for Mind and Brain</span>
 
 - Carried out data collection for behavioral studies
 - Administered eye-tracking to study subjects 
