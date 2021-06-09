@@ -110,4 +110,7 @@ hand -->
 - Machine Learning with Tree-Based Models in Python
 - Feature Engineering for Machine Learning in Python
 - Supervised Learning with scikit-learn
+- Data Visualization with Matplotlib and Seaborn
 - Statistical Thinking in Python
+- Data Manipulation with pandas
+- Intermediate SQL
