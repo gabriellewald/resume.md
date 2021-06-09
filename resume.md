@@ -14,7 +14,7 @@ is intended to be used for a short summary. -->
 
 ### <span></span>
 
-Data Scientist interested in surfacing insights from data. Experience creating accessible visualizations and predictive models for a wide range of applications. Passionate about the scientific method and the use of technology to generate positive impact, improve services, and uncover possible solutions.
+Data Scientist / Analyst interested in surfacing insights from data. Experience creating accessible visualizations and predictive models for a wide range of applications. Passionate about the scientific method and the use of technology to generate positive impact, improve services, and uncover possible solutions.
 
 ## Skills
 
@@ -32,7 +32,7 @@ Data Scientist interested in surfacing insights from data. Experience creating a
 
 ### <span>Meeting the Standards Projection</span> <span>May 2021</span>
 
-[Education Project](https://github.com/gabriellewald/education-project)
+[Education Project](https://github.com/gabriellewald/education-project) and
 [Machine Learning Models](https://github.com/gabriellewald/education-project/blob/main/Capstone1_pre_processing_training.ipynb)
 
 *This project was an in-depth investigation of factors possibly affecting school performance*
@@ -63,19 +63,20 @@ hand -->
 - Performed t-test and chi-square analysis for hypothesis testing
 - Conducted exploratory data analysis and created meaningful plots to identify patterns
 
-### <span>Research Data Analyst, SELF-lab | UC Davis</span> <span>May 2019 -- Jul 2020</span>
+### <span>UC Davis</span> <span>May 2017 -- Jul 2020</span>
+### <span>Data Analyst, Research Fellow </span> <span>SELF-lab</span>
 
 - Ran descriptives and constructed visualization for research in collaboration with the World Bank
 - Organized and cleaned data with over 63,000 data points in R / Excel to prepare data for analysis
 - Collaborated with researchers and participated in planning meetings
 
-### <span>Research Assistant, Oakes Lab | Center for Mind and Brain</span> <span>Aug 2018 -- Jul 2019</span>
+### <span>Research Assistant, Oakes Lab </span> <span>Center for Mind and Brain</span>
 
 - Ran eye-tracking software SMI, collected and coded infant behavior data
 - Screened participants and followed IRB guidelines for research projects
 - Trained new RAs on lab procedures and collaborated with the research team
 
-### <span>Research Assistant, Rivera Lab | Center for Mind and Brain</span> <span>Aug 2017 -- Oct 2018</span>
+### <span>Research Assistant, Rivera Lab </span> <span>Center for Mind and Brain</span>
 
 - Carried out data collection for behavioral studies
 - Administered eye-tracking to study subjects 
