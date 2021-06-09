@@ -23,7 +23,7 @@ Data Scientist / Analyst interested in surfacing insights from data. Experience 
 - Programming: Python, numpy, pandas, matplotlib, sklearn, statsmodel, seaborn, jupyter notebook
 - Statistics: p-value, test for significance (z-test, t-test, chi-squared, ANOVA)
 - Experimental Design: A/B testing, hypothesis testing, confidence level
-- Predictive Modeling: regression, classification
+- Predictive Modeling: logistic regression, lasso, decision tree, random forest, gradient boosting
 - Data Science Methods: mining, wrangling, cleaning, analysis, visualization, storytelling
 - Version Control: git, github
 - Databases: SQL
