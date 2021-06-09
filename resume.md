@@ -75,6 +75,10 @@ hand -->
 - Led weekly meetings with society members to address action items
 - Organized and presented induction ceremony to welcome new inductees
 
+### <span>Language Tutor, University of Hawaii</span> <span>Aug 2014 -- Dec 2015</span>
+
+- Conducted weekly tutoring sessions to assist with language assignments for students of English and Brazilian Portuguese
+
 ## Project
 
 ### <span>Meeting the Standards Projection</span> <span>May 2021</span>
