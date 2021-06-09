@@ -54,7 +54,7 @@ hand -->
 - Found and transformed several files to construct unique datasets
 - Used machine learning algorithms in classification and regression models
 
-### <span>Data Scientist Fellow, DS4A Empowerment Program | Correlation One</span> <span>Oct 2020 -- Feb 2021</span>
+### <span>Data Analytics and AI Fellow, DS4A Empowerment Program | Correlation One</span> <span>Oct 2020 -- Feb 2021</span>
 
 *Merit-based fellowship with 5% acceptance rate led by Harvard Prof. Natesh Pillai*
 
@@ -106,7 +106,7 @@ hand -->
 
 ### <span></span>
 
-- Data Analytics Fellowship, 300 hours
+- Data Analytics and AI Fellowship, 300 hours
 - Machine Learning with Tree-Based Models in Python
 - Feature Engineering for Machine Learning in Python
 - Supervised Learning with scikit-learn
