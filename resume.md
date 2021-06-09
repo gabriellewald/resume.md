@@ -63,8 +63,8 @@ hand -->
 - Performed t-test and chi-square analysis for hypothesis testing
 - Conducted exploratory data analysis and created meaningful plots to identify patterns
 
-### <span>University of California Davis</span> <span>May 2017 -- Jul 2020</span>
-### <span>Data Analyst, Research Fellow | SELF-lab </span>
+### <span>Research Fellow | University of California Davis</span> <span>May 2017 -- Jul 2020</span>
+### <span>Data Analyst | SELF-lab</span>
 
 - Ran descriptives and constructed visualization for research in collaboration with the World Bank
 - Organized and cleaned data with over 63,000 data points in R / Excel to prepare data for analysis
@@ -92,7 +92,7 @@ hand -->
 
 ### <span>University of California Davis</span> <span>2017 -- 2020</span>
 
-- Bachelor of Science in Cognitive Science, 3.65 GPA
+Bachelor of Science in Cognitive Science, 3.65 GPA
 - Computer Science and Neuroscience emphasis
 - Relevant coursework: Applied Statistics, Biostatistics, Statistical Analysis in R, Linear Algebra, Research Methods, Data Structures and Algorithms in Python, Object Oriented Programming in Python
 
