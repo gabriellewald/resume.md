@@ -38,8 +38,8 @@ Data Scientist / Analyst interested in surfacing insights from data. Experience 
 *This project was an in-depth investigation of factors possibly affecting school performance*
 
 - Designed predictive model to project the percentage of students passing standard tests in CA K-12 public schools
-- Modeled training data with several regression algorithms: linear regression, lasso, decision tree, random forest, and gradient boosting
-- Created unique dataset with test scores, financial investment in education, and several demographics regarding students and their families
+- Modeled training data with linear regression, lasso, decision tree, random forest, and gradient boosting
+- Combined multiple datasets and tested hypotheses to address open ended questions
 
 ## Experience
 
@@ -92,7 +92,7 @@ hand -->
 
 ### <span>University of California Davis</span> <span>2017 -- 2020</span>
 
-Bachelor of Science in Cognitive Science, 3.65 GPA
+- Bachelor of Science in Cognitive Science, 3.65 GPA
 - Computer Science and Neuroscience emphasis
 - Relevant coursework: Applied Statistics, Biostatistics, Statistical Analysis in R, Linear Algebra, Research Methods, Data Structures and Algorithms in Python, Object Oriented Programming in Python
 
