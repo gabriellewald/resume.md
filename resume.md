@@ -63,20 +63,20 @@ hand -->
 - Performed t-test and chi-square analysis for hypothesis testing
 - Conducted exploratory data analysis and created meaningful plots to identify patterns
 
-### <span>Research Fellow | University of California Davis</span> <span>May 2017 -- Jul 2020</span>
-### <span>Data Analyst | SELF-lab</span>
+### <span>Research Fellow, University of California Davis</span> <span>May 2017 -- Jul 2020</span>
+***Data Analyst | SELF-lab***
 
 - Ran descriptives and constructed visualization for research in collaboration with the World Bank
 - Organized and cleaned data with over 63,000 data points in R / Excel to prepare data for analysis
 - Collaborated with researchers and participated in planning meetings
 
-### <span>Research Assistant, Oakes Lab | Center for Mind and Brain</span>
+***Research Assistant, Oakes Lab | Center for Mind and Brain***
 
 - Ran eye-tracking software SMI, collected and coded infant behavior data
 - Screened participants and followed IRB guidelines for research projects
 - Trained new RAs on lab procedures and collaborated with the research team
 
-### <span>Research Assistant, Rivera Lab | Center for Mind and Brain</span>
+***Research Assistant, Rivera Lab | Center for Mind and Brain***
 
 - Carried out data collection for behavioral studies
 - Administered eye-tracking to study subjects 
