@@ -82,10 +82,10 @@ hand -->
 
 ## Project
 
-### <span>Meeting the Standards Projection</span> <span>May 2021</span>
+### <span>Predicting Test Performance in California Public Schools</span> <span>May 2021</span>
 
 [Education Project](https://github.com/gabriellewald/education-project) |
-[Machine Learning Models](https://github.com/gabriellewald/education-project/blob/main/Capstone1_pre_processing_training.ipynb)
+[Machine Learning Models](https://github.com/gabriellewald/education-project/blob/main/notebooks/5_pre_processing_modeling.ipynb)
 
 *This project was an in-depth investigation of factors possibly affecting school performance*
 
