@@ -84,7 +84,7 @@ hand -->
 
 ### <span>Auction Fraud Detection</span> <span>July 2021</span>
 
-[EDA](https://github.com/gabriellewald/auction-fraud-detection/blob/main/notebooks/2_exploratory_data_analysis.ipynb) |
+[Exploratory Data Analysis](https://github.com/gabriellewald/auction-fraud-detection/blob/main/notebooks/2_exploratory_data_analysis.ipynb) |
 [Feature Engineering](https://github.com/gabriellewald/auction-fraud-detection/blob/main/notebooks/3_feature_engineering.ipynb)
 
 *Ongoing project*
