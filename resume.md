@@ -82,12 +82,10 @@ hand -->
 
 ## Project
 
-### <span>Auction Fraud Detection</span> <span>July 2021</span>
+### <span>Auction Fraud Detection</span> <span>July 2021 -- Present</span>
 
 [Exploratory Data Analysis](https://github.com/gabriellewald/auction-fraud-detection/blob/main/notebooks/2_exploratory_data_analysis.ipynb) |
 [Feature Engineering](https://github.com/gabriellewald/auction-fraud-detection/blob/main/notebooks/3_feature_engineering.ipynb)
-
-*Ongoing project*
 
 - Performed feature engineering to create features for predicting auction fraud through classification machine learning models
 - Conducted exploratory data analysis of auction data to understand variables importance
