@@ -95,11 +95,10 @@ hand -->
 
 ## Education
 
-### <span>Massachusetts Institute of Technology - MIT</span> <span>2021 -- 2021</span>
+### <span>MIT Professional Education</span> <span>2021 -- 2021</span>
 
-- Professional Education
 - Data Science and Machine Learning: Making Data-Driven Decisions
-- Relevant coursework: Regression and Prediction, Hypothesis testing and Classification, The Use of Modern Regression for Causal Inference.
+- Relevant coursework: Regression and Prediction, Hypothesis Testing and Classification, The Use of Modern Regression for Causal Inference.
 
 ### <span>University of California Davis</span> <span>2017 -- 2020</span>
 
