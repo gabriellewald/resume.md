@@ -35,7 +35,7 @@ Data Scientist / Analyst interested in surfacing insights from data. Experience 
 hand -->
 ### <span>Data Scientist Fellow, Springboard School of Data</span> <span>Sep 2020 -- Present</span>
 
-*550+ hours of hands-on coursework, with 1:1 industry expert mentorship*
+*600+ hours of hands-on coursework, with 1:1 industry expert mentorship*
 
 - Created predictive model to understand student performance in CA K-12 public schools
 - Formulated and tested hypotheses to understand demographic factors in performance
