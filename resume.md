@@ -89,7 +89,8 @@ hand -->
 
 *Ongoing project*
 
-- Perform data engineering to create features in order to predict auction fraud through classification machine learning models.
+- Performed feature engineering to create features for predicting auction fraud through classification machine learning models
+- Conducted exploratory data analysis of auction data to understand variables importance
 
 ### <span>Predicting Test Performance in California Public Schools</span> <span>May 2021</span>
 
