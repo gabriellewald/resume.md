@@ -14,7 +14,7 @@ is intended to be used for a short summary. -->
 
 ### <span></span>
 
-Data Scientist / Analyst interested in surfacing insights from data. Experience creating accessible visualization and predictive models for a wide range of applications. Passionate about the scientific method and the use of technology to generate positive impact, improve services, and discover solutions.
+Data Scientist / Analyst interested in surfacing insights from data. Experience creating accessible visualization and predictive models for a wide range of applications. Deep interest in the scientific method and the use of technology to generate positive impact, improve services, and discover solutions.
 
 ## Skills
 
@@ -95,9 +95,15 @@ hand -->
 
 ## Education
 
+### <span>Massachusetts Institute of Technology - MIT</span> <span>2021 -- 2021</span>
+
+- Professional Education
+- Data Science and Machine Learning: Making Data-Driven Decisions
+- Relevant coursework: Regression and Prediction, Hypothesis testing and Classification, The Use of Modern Regression for Causal Inference.
+
 ### <span>University of California Davis</span> <span>2017 -- 2020</span>
 
-- Bachelor of Science in Cognitive Science, 3.65 GPA
+- Bachelor of Science in Cognitive Science, 3.7 Major GPA
 - Computer Science and Neuroscience emphasis
 - Relevant coursework: Applied Statistics, Biostatistics, Statistical Analysis in R, Linear Algebra, Research Methods, Data Structures and Algorithms in Python, Object Oriented Programming in Python
 
