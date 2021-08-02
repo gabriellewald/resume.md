@@ -82,6 +82,15 @@ hand -->
 
 ## Project
 
+### <span>Auction Fraud Detection</span> <span>July 2021</span>
+
+[EDA](https://github.com/gabriellewald/auction-fraud-detection/blob/main/notebooks/2_exploratory_data_analysis.ipynb) |
+[Feature Engineering](https://github.com/gabriellewald/auction-fraud-detection/blob/main/notebooks/3_feature_engineering.ipynb)
+
+*Ongoing project*
+
+- Perform data engineering to create features in order to predict auction fraud through classification machine learning models.
+
 ### <span>Predicting Test Performance in California Public Schools</span> <span>May 2021</span>
 
 [Education Project](https://github.com/gabriellewald/education-project) |
