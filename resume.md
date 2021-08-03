@@ -103,7 +103,7 @@ hand -->
 
 ## Education
 
-### <span>MIT Professional Education</span> <span>2021 -- 2021</span>
+### <span>MIT Professional Education</span> <span>2021 -- Present</span>
 
 - Data Science and Machine Learning: Making Data-Driven Decisions
 - Relevant coursework: Regression and Prediction, Hypothesis Testing and Classification, The Use of Modern Regression for Causal Inference.
