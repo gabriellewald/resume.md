@@ -21,19 +21,19 @@ Data Scientist interested in surfacing insights from data. Experience creating a
 ### <span>MIT Professional Education</span> <span>2021 -- Present</span>
 
 - Data Science and Machine Learning: Making Data-Driven Decisions
-- Relevant coursework: Regression and Prediction, Hypothesis Testing and Classification, The Use of Modern Regression for Causal Inference.
+- **Relevant coursework**: Regression and Prediction, Hypothesis Testing and Classification, The Use of Modern Regression for Causal Inference.
 
 ### <span>University of California Davis</span> <span>2017 -- 2020</span>
 
 - Bachelor of Science in Cognitive Science, **3.7 GPA**
 - Computer Science and Neuroscience emphasis
-- Relevant coursework: Applied Statistics, Biostatistics, Statistical Analysis in R, Linear Algebra, Research Methods, Data Structures and Algorithms in Python, Object Oriented Programming in Python
+- **Relevant coursework**: Applied Statistics, Biostatistics, Statistical Analysis in R, Linear Algebra, Research Methods, Data Structures and Algorithms in Python, Object Oriented Programming in Python
 
 ### <span>University of Hawaii | Kapiolani Community College</span> <span>2013 -- 2015</span>
 
 - Associate of Arts in Liberal Arts, **4.0 GPA** - Valedictorian
 - Applied Linguistics Concentration
-- Leadership: Vice President of Scholarship at Phi Theta Kappa - Alpha Kappa Psi Chapter
+- **Leadership**: Vice President of Scholarship at Phi Theta Kappa - Alpha Kappa Psi Chapter
 
 ## Experience
 
@@ -103,11 +103,10 @@ hand -->
 ### <span></span>
 
 - Programming: Python, numpy, pandas, matplotlib, sklearn, statsmodel, seaborn, jupyter notebook
-- Statistics: p-value, test for significance (z-test, t-test, chi-squared, ANOVA)
+- Statistics: P-value, test for significance (z-test, t-test, chi-squared, ANOVA)
 - Experimental Design: A/B testing, hypothesis testing, confidence level
-- Predictive Modeling: logistic regression, lasso, decision tree, random forest, gradient boosting
-- Data Science Methods: mining, wrangling, cleaning, analysis, visualization, storytelling
-- Version Control: git, github
+- Predictive Modeling: Logistic regression, lasso, decision tree, random forest, gradient boosting
+- Data Science Methods: Mining, wrangling, cleaning, analysis, visualization, storytelling
 - Databases: SQL
 - Languages: Fluent in English and Brazilian Portuguese
 
