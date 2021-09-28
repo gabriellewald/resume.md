@@ -77,13 +77,9 @@ hand -->
 - Led weekly meetings with society members to address action items
 - Organized and presented induction ceremony to welcome new inductees
 
-### <span>Language Tutor, University of Hawaii</span> <span>Aug 2014 -- Dec 2015</span>
-
-- Conducted tutoring sessions to assist students of English and Brazilian Portuguese with language assignments
-
 ## Projects
 
-### <span>Auction Fraud Detection</span> <span>July 2021 -- Present</span>
+### <span>Auction Fraud Detection</span> <span>August 2021</span>
 
 [Exploratory Data Analysis](https://github.com/gabriellewald/auction-fraud-detection/blob/main/notebooks/2_exploratory_data_analysis.ipynb) |
 [Feature Engineering](https://github.com/gabriellewald/auction-fraud-detection/blob/main/notebooks/3_feature_engineering.ipynb)
