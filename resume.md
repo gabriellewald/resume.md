@@ -14,7 +14,7 @@ is intended to be used for a short summary. -->
 
 ### <span></span>
 
-Data Scientist / Analyst interested in surfacing insights from data. Experience creating accessible visualization and predictive models for a wide range of applications. Deep interest in the scientific method and the use of technology to generate positive impact, improve services, and discover solutions.
+Data Scientist interested in surfacing insights from data. Experience creating accessible visualization and predictive models for a wide range of applications. Deep interest in the scientific method and the use of technology to generate positive impact, improve services, and discover solutions.
 
 ## Skills
 
@@ -51,24 +51,18 @@ hand -->
 - Performed t-test and chi-square analysis for hypothesis testing
 - Conducted exploratory data analysis and created meaningful plots to identify patterns
 
-### <span>Research Fellow, University of California Davis</span> <span>Aug 2017 -- Jul 2020</span>
-***Data Analyst | SELF-lab***
+### <span>Data Analyst at SELF-Lab, University of California Davis</span> <span>May 2019 -- Jul 2020</span>
 
 - Ran descriptives and constructed visualization for research in collaboration with the World Bank
 - Organized and cleaned data with over 63,000 data points in R / Excel to prepare data for analysis
 - Collaborated with researchers and participated in planning meetings
 
-***Research Assistant, Oakes Lab | Center for Mind and Brain***
-
-- Ran eye-tracking software SMI, collected and coded infant behavior data
-- Screened participants and followed IRB guidelines for research projects
-- Trained new RAs on lab procedures and collaborated with the research team
-
-***Research Assistant, Rivera Lab | Center for Mind and Brain***
+### <span>Research Assistant, UC Davis Center for Mind and Brain</span> <span>Aug 2017 -- Jul 2019</span>
 
 - Carried out data collection for behavioral studies
-- Administered eye-tracking to study subjects 
-- Collaborated with P.I., PhD students, and fellow researchers
+- Ran eye-tracking software SMI and coded infant behavior data
+- Screened participants and followed IRB guidelines for research projects
+- Trained new RAs on lab procedures and collaborated with P.I., PhD students, and fellow researchers
 
 ### <span>Vice President of Scholarship, PTK Honor Society International</span> <span>Jan 2015 -- Jan 2016</span>
 
@@ -80,7 +74,7 @@ hand -->
 
 - Conducted tutoring sessions to assist students of English and Brazilian Portuguese with language assignments
 
-## Project
+## Projects
 
 ### <span>Auction Fraud Detection</span> <span>July 2021 -- Present</span>
 
@@ -110,13 +104,13 @@ hand -->
 
 ### <span>University of California Davis</span> <span>2017 -- 2020</span>
 
-- Bachelor of Science in Cognitive Science, 3.7 Major GPA
+- Bachelor of Science in Cognitive Science, **3.7 GPA**
 - Computer Science and Neuroscience emphasis
 - Relevant coursework: Applied Statistics, Biostatistics, Statistical Analysis in R, Linear Algebra, Research Methods, Data Structures and Algorithms in Python, Object Oriented Programming in Python
 
 ### <span>University of Hawaii | Kapiolani Community College</span> <span>2013 -- 2015</span>
 
-- Associate of Arts in Liberal Arts, 4.0 GPA - Valedictorian
+- Associate of Arts in Liberal Arts, **4.0 GPA** - Valedictorian
 - Applied Linguistics Concentration
 - Leadership: Vice President of Scholarship at Phi Theta Kappa - Alpha Kappa Psi Chapter
 
