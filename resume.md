@@ -14,7 +14,7 @@ is intended to be used for a short summary. -->
 
 ### <span></span>
 
-Data Scientist interested in surfacing insights from data. Experience creating accessible visualization and predictive models for a wide range of applications. Deep interest in the scientific method and the use of technology to generate positive impact, improve services, and discover solutions.
+Data Scientist interested in surfacing insights from data. Experience creating accessible visualization and predictive models for a wide range of applications. Deep interest in experimentation, the scientific method and the use of technology to generate positive impact, improve services, and discover solutions.
 
 ## Education
 
@@ -43,10 +43,11 @@ hand -->
 
 *600+ hours of hands-on coursework, with 1:1 industry expert mentorship*
 
-- Created predictive model to understand student performance in CA K-12 public schools
-- Formulated and tested hypotheses to understand demographic factors in performance
+- Created machine learning model to predict student performance in CA K-12 public schools using regression models
+- Performed feature engineering with over 7 million data points to prepare dataset for classification models
+- Formulated/ tested hypotheses to understand relationship between target and explanatory vars
+- Applied A/B testing to understand change in design for a media platform
 - Found and transformed several files to construct unique datasets
-- Used machine learning algorithms in classification and regression models
 
 ### <span>Data Analytics and AI Fellow, DS4A Empowerment Program | Correlation One</span> <span>Oct 2020 -- Feb 2021</span>
 
