@@ -33,7 +33,7 @@ Data Scientist interested in surfacing insights from data. Experience creating a
 
 <!-- You have to wrap the "left" and "right" half of these headings in spans by
 hand -->
-### <span>Data Scientist Fellow, Springboard School of Data</span> <span>Sep 2020 -- Present</span>
+### <span>Data Scientist Fellow, Springboard School of Data</span> <span>Sep 2020 -- Sep 2021</span>
 
 *600+ hours of hands-on coursework, with 1:1 industry expert mentorship*
 
