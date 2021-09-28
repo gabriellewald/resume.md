@@ -114,6 +114,7 @@ hand -->
 
 ### <span></span>
 
+- Data Science Career Track, 600 hours
 - Data Analytics and AI Fellowship, 300 hours
 - Machine Learning with Tree-Based Models in Python
 - Feature Engineering for Machine Learning in Python
