@@ -123,3 +123,4 @@ hand -->
 - Statistical Thinking in Python
 - Data Manipulation with pandas
 - Intermediate SQL
+- Joining Data in SQL
