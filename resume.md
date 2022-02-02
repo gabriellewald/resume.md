@@ -41,7 +41,8 @@ Data Scientist interested in surfacing insights from data. Experience creating a
 hand -->
 ### <span>Data Science Analyst, Known Global</span> <span>Feb 2022 -- Present</span>
 
-- Build models and scripts to analyze consumer data, run SQL queries on databases with hundreds of millions of data entries
+- Build models and scripts to analyze consumer data
+- Run SQL queries on databases with hundreds of millions of data entries
 - Design and analyze surveys to generate data for modeling and insights
 - Build data visualizations and deliverables from analyzes and models, present reports and findings to client
 - Partner with vendors for collection and delivery of data
