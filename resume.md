@@ -71,6 +71,7 @@ hand -->
 - Ran descriptives and constructed visualization for research in collaboration with the World Bank
 - Organized and cleaned data with over 63,000 data points in R / Excel to prepare data for analysis
 - Collaborated with researchers and participated in planning meetings
+- Ran Random Forest model to understand intervention effectiveness
 
 ### <span>Research Assistant, UC Davis Center for Mind and Brain</span> <span>Aug 2017 -- Jul 2019</span>
 
