@@ -39,7 +39,7 @@ Data Scientist interested in surfacing insights from data. Experience creating a
 
 <!-- You have to wrap the "left" and "right" half of these headings in spans by
 hand -->
-### <span>Data Scientist, Known Global</span> <span>Feb 2022 -- Present</span>
+### <span>Data Science Analyst, Known Global</span> <span>Feb 2022 -- Present</span>
 
 - Build models and scripts to analyze consumer data, run SQL queries on databases with hundreds of millions of data entries
 - Design and analyze surveys to generate data for modeling and insights
