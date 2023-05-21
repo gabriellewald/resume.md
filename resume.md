@@ -25,7 +25,7 @@ Data Scientist interested in surfacing insights from data. Experience creating a
 
 ### <span>University of California Davis</span> <span>2017 -- 2020</span>
 
-- Bachelor of Science in Cognitive Science, **3.7 GPA**
+- Bachelor of Science in Cognitive Science
 - Computer Science and Neuroscience emphasis
 - **Relevant coursework**: Applied Statistics, Biostatistics, Statistical Analysis in R, Linear Algebra, Research Methods, Data Structures and Algorithms in Python, Object Oriented Programming in Python
 
