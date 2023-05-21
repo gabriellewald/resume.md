@@ -39,13 +39,15 @@ Data Scientist interested in surfacing insights from data. Experience creating a
 
 <!-- You have to wrap the "left" and "right" half of these headings in spans by
 hand -->
-### <span>Data Science Analyst, Known Global</span> <span>Feb 2022 -- Present</span>
+### <span>Senior Analyst, Known Global</span> <span>Apr 2023 -- Present</span>
+
+### <span>Analyst, Known Global</span> <span>Feb 2022 -- Apr 2023</span>
 
 - Build models and scripts to analyze consumer data
 - Run SQL queries on databases with hundreds of millions of data entries
 - Design and analyze surveys to generate data for modeling and insights
-- Build data visualizations and deliverables from analyzes and models, present reports and findings to client
-- Partner with vendors for collection and delivery of data
+- Create data visualizations and deliverables from analyzes and models
+- Present reports and findings to client
 
 ### <span>Data Science Fellow, Springboard School of Data</span> <span>Sep 2020 -- Sep 2021</span>
 
