@@ -43,10 +43,10 @@ hand -->
 
 ### <span>Analyst, Known Global</span> <span>Feb 2022 -- Apr 2023</span>
 *Promoted within one year*
-- Build models and scripts to analyze consumer data
-- Run SQL queries on databases with hundreds of millions of data entries
-- Design and analyze surveys to generate data for modeling 
-- Create data visualizations for deliverables to report analyzes/insights
+- Build ml models and run SQL queries on database with hundreds of millions of data entries to analyze consumer data
+- Work independently to complete requests end-to-end, supporting both internal and external stakeholders
+- Prepare, analyze and visualize consumer data to support analyzes, customer requests, and product R&D
+- Collaborate with clients to help them solve problems using data
 
 ### <span>Data Science Fellow, Springboard School of Data</span> <span>Sep 2020 -- Sep 2021</span>
 
