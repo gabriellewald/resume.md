@@ -42,7 +42,7 @@ hand -->
 ### <span>Senior Analyst, Known Global</span> <span>Apr 2023 -- Present</span>
 
 ### <span>Analyst, Known Global</span> <span>Feb 2022 -- Apr 2023</span>
-- Promoted within one year for performing above current position
+- Promoted within one year
 - Build models and scripts to analyze consumer data
 - Run SQL queries on databases with hundreds of millions of data entries
 - Design and analyze surveys to generate data for modeling and insights
