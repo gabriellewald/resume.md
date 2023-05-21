@@ -45,9 +45,8 @@ hand -->
 - Promoted within one year
 - Build models and scripts to analyze consumer data
 - Run SQL queries on databases with hundreds of millions of data entries
-- Design and analyze surveys to generate data for modeling and insights
-- Create data visualizations and deliverables from analyzes and models
-- Present reports and findings to client
+- Design and analyze surveys to generate data for modeling 
+- Create data visualizations for deliverables to report analyzes/insights
 
 ### <span>Data Science Fellow, Springboard School of Data</span> <span>Sep 2020 -- Sep 2021</span>
 
