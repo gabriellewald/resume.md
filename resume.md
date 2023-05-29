@@ -113,7 +113,7 @@ hand -->
 ### <span></span>
 
 - Programming: Python, numpy, pandas, matplotlib, sklearn, statsmodel, seaborn, jupyter notebook
-- Statistics: P-value, test for significance (z-test, t-test, chi-squared), diff-in-diff
+- Statistics: P-value, test for significance (z-test, t-test, chi-squared), difference-in-difference
 - Experimental Design: A/B testing, hypothesis testing, confidence level
 - Predictive Modeling: Logistic regression, lasso, decision tree, random forest, gradient boosting
 - Data Science Methods: Mining, wrangling, cleaning, analysis, visualization, storytelling
