@@ -39,11 +39,11 @@ Data Scientist interested in surfacing insights from data. Experience creating a
 
 <!-- You have to wrap the "left" and "right" half of these headings in spans by
 hand -->
-### <span>Senior Analyst, Known Global</span> <span>Apr 2023 -- Present</span>
+### <span>Senior Analyst, Known Global</span> <span>Feb 2022 -- Present</span>
 
-### <span>Analyst, Known Global</span> <span>Feb 2022 -- Apr 2023</span>
-*Promoted within one year*
-- Build ml models and run SQL queries on database with hundreds of millions of data entries to analyze consumer data
+*Promoted April 2023*
+
+- Build ML models and run SQL queries on database with hundreds of millions of data entries to analyze consumer data
 - Work independently to complete requests end-to-end, supporting both internal and external stakeholders
 - Prepare, analyze and visualize consumer data to support analyzes, customer requests, and product R&D
 - Collaborate with clients to help them solve problems using data
