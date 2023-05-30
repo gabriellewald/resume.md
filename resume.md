@@ -14,7 +14,7 @@ is intended to be used for a short summary. -->
 
 ### <span></span>
 
-Data Scientist interested in surfacing insights from data. Experience creating accessible visualization and predictive models for a wide range of applications. Deep interest in experimentation, the scientific method and the use of technology to generate positive impact, improve services, and discover solutions.
+Data professional interested in surfacing insights from data. Experience creating accessible visualization and predictive models for a wide range of applications. Deep interest in experimentation, the scientific method and the use of technology to generate positive impact, improve services, and discover solutions.
 
 ## Education
 
