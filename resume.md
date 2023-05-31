@@ -43,9 +43,9 @@ hand -->
 
 *Promoted April 2023*
 
-- Build ML models and run SQL queries on database with hundreds of millions of data entries to analyze consumer data
+- Run SQL queries on database with hundreds of millions of data entries to analyze consumer data
 - Work independently to complete requests end-to-end, supporting both internal and external stakeholders
-- Prepare, analyze and visualize consumer data to support analyzes, customer requests, and product R&D
+- Prepare, analyze and visualize consumer data to support analyzes and customer requests
 - Collaborate with clients to help them solve problems using data
 
 ### <span>Data Science Fellow, Springboard School of Data</span> <span>Sep 2020 -- Sep 2021</span>
